@@ -1,0 +1,4 @@
+class NVNode(object):
+    pass
+
+
